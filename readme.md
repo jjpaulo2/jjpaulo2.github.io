@@ -2,7 +2,7 @@
 
 ### 2021's new website!
 
-New year and everything comes new. My old website is still avaliable at https://jjpaulo2.github.io/mysite-legacy, but it won't get future updates. I'm keeping it to guard old memories from the time I was learning web development.
+New year and everything comes new. My old website's source code is still avaliable at [this legacy brach](https://github.com/jjpaulo2/mysite-front-end/tree/legacy), and it won't get future updates. I'm keeping it to guard old memories from the time I was learning web development.
 
 ![](new-site.gif)
 
